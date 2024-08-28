@@ -78,8 +78,6 @@
     - `bedtools_getfasta`: extract sequences from a FASTA file for each of the
                            intervals defined in a BED/GFF/VCF file (PR #59).
 
-* `nanoplot`: Plotting tool for long read sequencing data and alignments (PR #65).
-
 ## MINOR CHANGES
 
 * Uniformize component metadata (PR #23).
